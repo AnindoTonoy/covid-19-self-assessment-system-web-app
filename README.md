@@ -9,7 +9,6 @@ python== 3.8 or up and django==3.1
 ```bash
 python manage.py makemigrations
 python manage.py migrate
-python manage.py runserver
 ```
 ## To use admin panel you need to create super user using this command
 ```bash
